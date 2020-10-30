@@ -4,6 +4,9 @@ title = "Digili AS"
 DefaultContentLanguage = "no"
 theme = "ananke"
 
+[params]
+  custom_css = ["css/main.css"]
+
 [languages]
   [languages.no]
     contentDir = "content/no"
