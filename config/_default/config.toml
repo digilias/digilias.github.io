@@ -1,0 +1,13 @@
+baseURL = "https://digili.no/"
+languageCode = "en-us"
+title = "Digili AS"
+DefaultContentLanguage = "no"
+theme = "ananke"
+
+[languages]
+  [languages.no]
+    contentDir = "content/no"
+    weight = 1
+  [languages.en]
+    contentDir = "content/en"
+    weight = 2
