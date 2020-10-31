@@ -6,6 +6,7 @@ theme = "ananke"
 
 [params]
   custom_css = ["css/main.css"]
+  site_logo = "/images/digili_logo.png"
 
 [languages]
   [languages.no]

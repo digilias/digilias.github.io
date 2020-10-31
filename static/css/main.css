@@ -1,4 +1,8 @@
-p {
-    background-color: green;
-    color: red;
+.pb3-m {
+    background-color: white;
+}
+
+.logo {
+    text-align: left;
+    float: left;
 }
