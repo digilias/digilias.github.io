@@ -4,5 +4,32 @@
 
 .logo {
     text-align: left;
-    float: left;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+a:active {
+    color: white;
+}
+
+h2 {
+    text-align: left;
+}
+
+p {
+    text-align: left;
+}
+
+.measure-wide {
+    max-width: 40em;
 }
