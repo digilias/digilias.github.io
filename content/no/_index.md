@@ -2,12 +2,11 @@
 title: "Digili AS"
 ---
 
-## Hei!
+# Hei!
 
 Digili har teknisk ekspertise innen blant annet Kubernetes, OpenShift, IoT, ytelsesoptimalisering og
 Apache Kafka.
 
-Våre rådgivningstjenester inkluderer utvikling, vedlikehold og support av komplekse datasystemer, og
-hvordan ditt selskap kan lykkes med åpne standarder og åpen kildekode.
+I tillegg til rådgivningstjenester, tilbyr vi produkter og tjenester.
 
-Digili tilbyr produkter og tjenester som Enterprise Messaging, Event Streaming og Managed SkyEvents.
+Les mer om Digili.
