@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://digili.no/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://digili.no/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://digili.no/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://digili.no/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://digili.no/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://digili.no/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://digili.no/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://digili.no/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://digili.no/en/tags/"
+                />
+  </url>
+  
+</urlset>
