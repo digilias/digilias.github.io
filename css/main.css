@@ -1,0 +1,73 @@
+.pb3-m {
+    background-color: white;
+}
+
+.logo {
+    text-align: left;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+a:active {
+    color: black;
+}
+
+a {
+}
+
+.mailto {
+    padding-left: 18%;
+}
+
+h1 {
+    font-size: 48pt;
+    text-align: left;
+    color: white;
+    font-weight: normal;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p {
+    text-align: left;
+    font-size: 18pt;
+    color: white;
+}
+
+.bg-near-white {
+    background-color: white;
+}
+
+.cover {
+    background-color: white;
+    padding-left: 10rem;
+}
+
+img {
+    padding-left: 20%;
+}
+
+.measure-wide {
+    max-width: 40em;
+}
+
+.pb7 {
+    padding-top: 10rem;
+    background-color: #003648;
+    padding-bottom: 5rem;
+}
+
+.pa3 {
+    min-height: 4em;
+    background-color: #ff8183;
+}
