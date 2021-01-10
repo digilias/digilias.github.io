@@ -17,6 +17,10 @@
   </url>
   
   <url>
+    <loc>https://digilias.github.io/_development/</loc>
+  </url>
+  
+  <url>
     <loc>https://digilias.github.io/</loc>
     <xhtml:link
                 rel="alternate"
