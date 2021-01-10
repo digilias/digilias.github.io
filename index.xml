@@ -12,7 +12,44 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://digilias.github.io/_development/</guid>
-      <description>Utvikling </description>
+      <description>Utvikling Hello content</description>
+    </item>
+    
+    <item>
+      <title>Digili AS</title>
+      <link>https://digilias.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://digilias.github.io/about/</guid>
+      <description>Om Digili Digili ble started av Ulf Lilleengen, med over 10 års erfaring innen utvikling av systemer som behandler store datamengder og hvordan disse forholder seg til underliggende maskinvare.
+Digili har tilbyr spesialkompetanse og dyp forståelse av kompliserte systemer og hvordan de henger sammen for å sørge for at det vi leverer er av god kvalitet.</description>
+    </item>
+    
+    <item>
+      <title>Digili AS</title>
+      <link>https://digilias.github.io/development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://digilias.github.io/development/</guid>
+      <description>Utvikling Digili har inngående kunnskap til backend systemer og embedded systemer. Vi kan hjelpe din bedrift med å utvikle kritiske komponenter som krever høy ytelse og effektivitet.</description>
+    </item>
+    
+    <item>
+      <title>Digili AS</title>
+      <link>https://digilias.github.io/operations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://digilias.github.io/operations/</guid>
+      <description>Drift Digili har erfaring med utvikling og drift av tjenester, og kan bistå driftsteam med kompetanse innen Kubernetes, Apache Kafka, samt operasjonelt oppsett og monitorering.</description>
+    </item>
+    
+    <item>
+      <title>Digili AS</title>
+      <link>https://digilias.github.io/training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://digilias.github.io/training/</guid>
+      <description>Rådgivning Digili kan bistå med rådgivning og opplæring i moderne teknologi innen backend, internet of things og mikrokontrollere. Vi tilbyr kurs innen Kubernetes, Apache Kafka, moderne utvikling på mikrokontrollere, og utviklingsmetodikk for åpen kildekode.</description>
     </item>
     
   </channel>
