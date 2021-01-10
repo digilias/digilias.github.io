@@ -6,23 +6,45 @@
     text-align: left;
 }
 
-a:link {
+
+a.black:link
+{
     color: black;
 }
 
-a:visited {
+a.black:visited
+{
     color: black;
 }
 
-a:hover {
+a.black:hover
+{
     color: black;
 }
 
-a:active {
+a.black:active
+{
     color: black;
 }
 
-a {
+a:link
+{
+    color: yellow;
+}
+
+a:visited
+{
+    color: yellow;
+}
+
+a:hover
+{
+    color: yellow;
+}
+
+a:active
+{
+    color: yellow;
 }
 
 .mailto {
