@@ -1,37 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://digilias.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://digilias.github.io/_development/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://digilias.github.io/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://digilias.github.io/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://digilias.github.io/development/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://digilias.github.io/operations/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://digilias.github.io/training/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://digilias.github.io/tags/</loc>
   </url>
-  
 </urlset>
