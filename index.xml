@@ -36,11 +36,22 @@ Digili har tilbyr spesialkompetanse og dyp forståelse av kompliserte systemer o
     
     <item>
       <title>Digili AS</title>
-      <link>https://digilias.github.io/operations/</link>
+      <link>https://digilias.github.io/services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://digilias.github.io/operations/</guid>
-      <description>Drift Digili har erfaring med utvikling og drift av tjenester, og kan bistå driftsteam med kompetanse innen Kubernetes, Apache Kafka, samt operasjonelt oppsett og monitorering.</description>
+      <guid>https://digilias.github.io/services/</guid>
+      <description>Selvbetjenete Tjenester (Software as a Service) Vi tilbyr selvbetjeneste tjenester innen IoT:
+Digili IoT Sky </description>
+    </item>
+    
+    <item>
+      <title>Digili AS</title>
+      <link>https://digilias.github.io/tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://digilias.github.io/tech/</guid>
+      <description>Teknologi Eksempler på teknologier og områder hvor vi kan bidra:
+Pålitelig og sikker programvare for sensorer og mikrokontrollere Trådløse sensor-nettverk basert på Bluetooth Low Energy eller LoRaWAN. Melding og streaming-teknologier som Apache Kafka og Apache ActiveMQ Authentieringsløsninger basert på Keycloak, Plattformer basert på Kubernetes og OpenShift. &amp;hellip; </description>
     </item>
     
     <item>
