@@ -71,7 +71,8 @@ Pålitelig og sikker programvare for sensorer og mikrokontrollere Trådløse sen
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://digilias.github.io/training/</guid>
-      <description>Rådgivning Digili kan bistå med rådgivning og opplæring i moderne teknologi innen backend, Internet of Things og mikrokontrollere. Vi tilbyr opplæring innen Kubernetes, Apache Kafka, moderne utvikling på mikrokontrollere, og utviklingsmetodikk for åpen kildekode.</description>
+      <description>Rådgivning Digili kan bistå med rådgivning og opplæring innen:
+Utvikling med fri programvare og åpen kildekode. Utvikling av systemer for behandling av store datamengder. Utvikling av batteridrevne systemer. Integrasjon og meldingssystemer (Apache Kafka, ActiveMQ, AMQP, MQTT) </description>
     </item>
     
   </channel>
