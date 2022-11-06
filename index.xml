@@ -31,7 +31,18 @@ Digili har tilbyr spesialkompetanse og dyp forståelse av kompliserte systemer o
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://digilias.github.io/development/</guid>
-      <description>Utvikling Digili har inngående kunnskap til backend systemer og embedded systemer. Vi kan hjelpe din bedrift med å utvikle kritiske komponenter som krever høy ytelse og effektivitet.</description>
+      <description>Programvare Digili kan hjelpe din bedrift med nyutvikling og viderutvikling av eksisterende programvare:
+Integrering av eksisterende systemer med sikker tilkobling til skyen. Programvare for enheter med krav til lavt batteriforbruk og sikker tilkobling. Tjenester for sikker tilkobling av maskinvare til skyen. </description>
+    </item>
+    
+    <item>
+      <title>Digili AS</title>
+      <link>https://digilias.github.io/hardware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://digilias.github.io/hardware/</guid>
+      <description>Maskinvare Digili kan lage spesialtilpasset maskinvare for din bedrift:
+Kretskort prototyper og småskala produksjon (mindre enn 10 enheter) Fastvare og programvare tilpasset små systemer (mikrokontrollere) Utvite eksisterende maskinvare for tilkobling til skyen </description>
     </item>
     
     <item>
@@ -60,7 +71,7 @@ Pålitelig og sikker programvare for sensorer og mikrokontrollere Trådløse sen
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://digilias.github.io/training/</guid>
-      <description>Rådgivning Digili kan bistå med rådgivning og opplæring i moderne teknologi innen backend, internet of things og mikrokontrollere. Vi tilbyr opplæring innen Kubernetes, Apache Kafka, moderne utvikling på mikrokontrollere, og utviklingsmetodikk for åpen kildekode.</description>
+      <description>Rådgivning Digili kan bistå med rådgivning og opplæring i moderne teknologi innen backend, Internet of Things og mikrokontrollere. Vi tilbyr opplæring innen Kubernetes, Apache Kafka, moderne utvikling på mikrokontrollere, og utviklingsmetodikk for åpen kildekode.</description>
     </item>
     
   </channel>
