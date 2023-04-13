@@ -5,6 +5,41 @@
     <link>https://digilias.github.io/en/</link>
     <description>Recent content on Digili AS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://digilias.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language><atom:link href="https://digilias.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digili AS</title>
+      <link>https://digilias.github.io/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://digilias.github.io/en/about/</guid>
+      <description>About Digili was founded by Ulf Lilleengen, who has over 10 years of experience in developing products with high requirements for quality, performance, security, and integration with other systems.
+We use open standards and open source as much as possible, and have a long-term approach to developing systems that can be further developed over time.</description>
+    </item>
+    
+    <item>
+      <title>Digili AS</title>
+      <link>https://digilias.github.io/en/development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://digilias.github.io/en/development/</guid>
+      <description>Product Development Digili can help you realize your ideas!
+Design and prototyping of circuit boards that can easily be expanded to large-scale production.
+Software for microcontrollers and control systems.
+Secure connection of devices to cloud services.
+Software for intelligent processing of data in cloud services.</description>
+    </item>
+    
+    <item>
+      <title>Digili AS</title>
+      <link>https://digilias.github.io/en/training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://digilias.github.io/en/training/</guid>
+      <description>Consulting Digili provides consulting and training in:
+Development with free software and open source: how to build open environments that attract external contributors?
+Development with a focus on performance and scalability: how to plan systems that allow for expansions and new business areas?
+Integration and messaging systems: how to build systems that can easily integrate with other systems?</description>
+    </item>
+    
   </channel>
 </rss>

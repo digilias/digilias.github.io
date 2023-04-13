@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://digilias.github.io/categories/</loc>
     <xhtml:link
@@ -14,13 +13,7 @@
                 hreflang="no"
                 href="https://digilias.github.io/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://digilias.github.io/_development/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://digilias.github.io/</loc>
     <xhtml:link
                 rel="alternate"
@@ -32,9 +25,49 @@
                 hreflang="no"
                 href="https://digilias.github.io/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://digilias.github.io/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://digilias.github.io/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://digilias.github.io/about/"
+                />
+  </url><url>
+    <loc>https://digilias.github.io/development/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://digilias.github.io/en/development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://digilias.github.io/development/"
+                />
+  </url><url>
+    <loc>https://digilias.github.io/hardware/</loc>
+  </url><url>
+    <loc>https://digilias.github.io/services/</loc>
+  </url><url>
+    <loc>https://digilias.github.io/tech/</loc>
+  </url><url>
+    <loc>https://digilias.github.io/training/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://digilias.github.io/en/training/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://digilias.github.io/training/"
+                />
+  </url><url>
     <loc>https://digilias.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -47,5 +80,4 @@
                 href="https://digilias.github.io/tags/"
                 />
   </url>
-  
 </urlset>

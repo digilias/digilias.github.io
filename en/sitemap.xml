@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://digilias.github.io/en/categories/</loc>
     <xhtml:link
@@ -14,9 +13,7 @@
                 hreflang="en"
                 href="https://digilias.github.io/en/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://digilias.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
@@ -28,9 +25,43 @@
                 hreflang="en"
                 href="https://digilias.github.io/en/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://digilias.github.io/en/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://digilias.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://digilias.github.io/en/about/"
+                />
+  </url><url>
+    <loc>https://digilias.github.io/en/development/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://digilias.github.io/development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://digilias.github.io/en/development/"
+                />
+  </url><url>
+    <loc>https://digilias.github.io/en/training/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://digilias.github.io/training/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://digilias.github.io/en/training/"
+                />
+  </url><url>
     <loc>https://digilias.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -43,5 +74,4 @@
                 href="https://digilias.github.io/en/tags/"
                 />
   </url>
-  
 </urlset>

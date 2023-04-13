@@ -5,16 +5,7 @@
     <link>https://digilias.github.io/</link>
     <description>Recent content on Digili AS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://digilias.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Digili AS</title>
-      <link>https://digilias.github.io/_development/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://digilias.github.io/_development/</guid>
-      <description>Utvikling Hello content</description>
-    </item>
-    
+    <language>no-NO</language><atom:link href="https://digilias.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digili AS</title>
       <link>https://digilias.github.io/about/</link>
@@ -31,10 +22,11 @@ Vi benytter åpne standarder og åpen kildekode så mye vi kan, og har en langsi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://digilias.github.io/development/</guid>
-      <description>Produktutvikling Digili kan hjelpe din bedrift med å realisere ideer!
+      <description>Produktutvikling Digili kan hjelpe deg å realisere dine ideer!
 Design og prototyper av kretskort som enkelt kan utvides til storskala produksjon.
 Programvare for mikrokontrollere og styringssystemer.
-Sikker tilkobling av enheter mot skytjenester.</description>
+Sikker tilkobling av enheter mot skytjenester.
+Programvare for intelligent behandling av data i skyen.</description>
     </item>
     
     <item>

@@ -7,6 +7,27 @@
 }
 
 
+
+a.lang:link
+{
+    color: #ff8183;
+}
+
+a.lang:visited
+{
+    color: #ff8183;
+}
+
+a.lang:hover
+{
+    color: #ff8183;
+}
+
+a.lang:active
+{
+    color: #ff8183;
+}
+
 a.black:link
 {
     color: black;
